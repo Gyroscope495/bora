@@ -1,0 +1,12 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Project specific caches and logs
+.recommender_cache/
+cache/
+*.log
+
+# OS specific files
+Thumbs.db
+.DS_Store
